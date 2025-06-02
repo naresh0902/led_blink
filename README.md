@@ -25,7 +25,7 @@ This project demonstrates how to blink the onboard LED of the **Digilent Basys 3
 | -------------- | ----------------------------------   |
 | `clk_1hz.v`    | Clock divider module (100MHz → 1Hz)  |
 | `led_blink.v`  | Top module that toggles LED at 1Hz   |
-| `led_blink.xdc`| Constraints file mapping pins        |
+| `schematic.png`| Schematics of led_blink.v            |
 
 ---
 
